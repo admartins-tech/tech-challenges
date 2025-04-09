@@ -97,4 +97,4 @@ python desafio_02_calculadora_aluguel_proporcional.py
 
 8. **Visualize o cálculo do valor proporcional diretamente no terminal.**
 
-🎉 Pronto! O programa exibirá para você o valor proporcional de aluguel de forma personalizada.
+Pronto! O programa exibirá para você o valor proporcional de aluguel de forma personalizada.
