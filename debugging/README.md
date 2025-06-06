@@ -1,4 +1,4 @@
-# 🐞 Debugging
+# Debugging
 
 Nem tudo funciona de primeira — e aqui eu vou mostrar o que eu faço quando algo dá errado.
 
