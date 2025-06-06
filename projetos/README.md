@@ -1,4 +1,4 @@
-# 🛠️ Projetos
+# Projetos
 
 Aqui eu vou desenvolver mini soluções baseadas em problemas reais.
 
@@ -9,7 +9,7 @@ não só fazer funcionar, mas construir algo que realmente faça sentido e resol
 
 ---
 
-## 📦 Cada projeto inclui:
+## Cada projeto inclui:
 
 - Um README explicando o problema e a proposta da solução  
 - O código escrito com foco em clareza, estrutura e boas práticas  
