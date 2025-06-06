@@ -1,4 +1,4 @@
-# 📚 Documentação e Reflexões
+# Documentação e Reflexões
 
 Aqui eu vou anotar aprendizados, decisões que tomei, o que funcionou, o que não funcionou — e o que eu percebi ao longo do caminho.
 
