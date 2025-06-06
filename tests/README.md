@@ -1,4 +1,4 @@
-# 🧪 Testes
+# Testes
 
 Aqui eu estou aprendendo a escrever testes desde o início.
 
