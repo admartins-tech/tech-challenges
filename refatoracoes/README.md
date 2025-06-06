@@ -1,4 +1,4 @@
-# 🔁 Refatorações
+# Refatorações
 
 Aqui vou mostrar como estou melhorando meu próprio código.
 
